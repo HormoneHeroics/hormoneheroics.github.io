@@ -14,7 +14,7 @@ social:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
